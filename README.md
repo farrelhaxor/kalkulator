@@ -1,2 +1,2 @@
 # kalkulator
-Kalkulator run in terminal
+run kalkulator in terminal
