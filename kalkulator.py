@@ -1,5 +1,5 @@
 while True:
-	author = ("author = farrel")
+	author = ("\nauthor = farrel")
 	print(author)
 	Team = ("Team = Malang Xploit")
 	print(Team)
